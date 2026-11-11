@@ -6,7 +6,7 @@ This architecture hosts a scalable web application on AWS using a 3-tier model (
 
 ## 📊 Architecture Diagram
 
-![Architecture](C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-11-11 134101.png)
+![Architecture](./project.jpg.png)
 
 ## 🧹 Components Breakdown
 
