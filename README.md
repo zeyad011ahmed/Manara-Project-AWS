@@ -6,7 +6,7 @@ This architecture hosts a scalable web application on AWS using a 3-tier model (
 
 ## 📊 Architecture Diagram
 
-![Architecture](./project.jpg.png)
+![Architecture](./Project.jpg.png)
 
 ## 🧹 Components Breakdown
 
